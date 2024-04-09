@@ -1,4 +1,4 @@
-# Movie Embeddings Generator README
+# Movie Embeddings Generator
 
 ## Overview
 
